@@ -6,5 +6,5 @@
         dest: /etc/resolv.conf
         content: |
           nameserver 8.8.8.8
-          nameserver 4.2.2.1
+          nameserver 1.1.1.1
           search mydomain.com
